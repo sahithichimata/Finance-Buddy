@@ -1,20 +1,29 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Finance Buddy 💰
 
-# Run and deploy your AI Studio app
+Finance Buddy is an AI-powered personal finance management application that helps users track expenses, manage budgets, analyze spending habits, and achieve savings goals through real-time insights and interactive dashboards.
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/52d4782c-5a8a-4d6b-9d5c-1c303a8d8e59
+- Expense and income tracking
+- Budget planning and management
+- Spending analytics and visualizations
+- AI-powered financial insights
+- Savings goal tracking
+- Secure user authentication
+- Responsive and user-friendly interface
 
-## Run Locally
+## Tech Stack
 
-**Prerequisites:**  Node.js
+- Frontend: React.js
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- AI/ML: Python
+- Authentication: JWT
+- Version Control: Git & GitHub
 
+## Installation
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+```bash
+git clone <repository-url>
+cd finance-buddy
+npm install
