@@ -1,4 +1,4 @@
-**# Finance Buddy 💰
+## Finance Buddy 💰
 
 Finance Buddy is an AI-powered personal finance management application that helps users track expenses, manage budgets, analyze spending habits, and achieve savings goals through real-time insights and interactive dashboards.Processes 500+ receipts with 60% reduction in manual tracking time. Combines OCR-based digitization, ML-powered expense categorization, and natural language querying over financial data.
 
